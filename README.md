@@ -7,11 +7,11 @@
 Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la carpeta raiz:
 
 1. `composer global require laravel/installer`
-2. composer install
-3. php artisan key:generate (antes de esto verificar cumplimiento del apartado "Importante")
-4. php artisan migrate
-5. php artisan db:seed
-6. php artisan serve
+2. `composer install`
+3. `php artisan key:generate (antes de esto verificar cumplimiento del apartado "Importante")`
+4. `php artisan migrate`
+5. `php artisan db:seed`
+6. `php artisan serve`
    
 ## Importante
 \```
