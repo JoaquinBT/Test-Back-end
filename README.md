@@ -14,6 +14,7 @@ Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la c
 6. php artisan serve
    
 ## Importante
+\```markdown
 -1.Editar el archivo [.env](https://github.com/JoaquinBT/Test-back-end/blob/master/.env) con las configuraciones de su base de datos personal de PostgreSQL:
     - DB_CONNECTION=pgsql
     - DB_HOST=127.0.0.1
@@ -23,7 +24,7 @@ Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la c
     - DB_PASSWORD=
     
 -2. En la ruta de Xampp\php\php.ini Descomentar todo lo relacionado a "pgsql" para permitir el funcionamiento de PostgreSQL en Xampp
-
+\```
 
 
 
