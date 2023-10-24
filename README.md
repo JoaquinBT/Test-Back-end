@@ -1,3 +1,15 @@
+# Instrucciones
+## Observaciones
+Editar el archivo [.env](https://github.com/JoaquinBT/Test-Back-end/master/.env) con las configuraciones de la base de datos de PostgreSQL.
+Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la carpeta raiz:
+
+1. composer install
+2. php artisan key:generate
+2. php artisan migrate
+2. php artisan serve
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
