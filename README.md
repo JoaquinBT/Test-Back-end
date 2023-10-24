@@ -13,7 +13,7 @@ Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la c
 5. `php artisan db:seed`
 6. `php artisan serve`
    
-## Importante{#Importante}
+## Importante {#Importante}
 \```
 - Editar el archivo [.env](https://github.com/JoaquinBT/Test-back-end/blob/master/.env) con las configuraciones de su base de datos personal de PostgreSQL:
     - DB_CONNECTION=pgsql
