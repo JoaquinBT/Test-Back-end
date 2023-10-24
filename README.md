@@ -1,12 +1,31 @@
 # Instrucciones
-## Observaciones
-Editar el archivo [.env](https://github.com/JoaquinBT/Test-back-end/blob/master/.env) con las configuraciones de la base de datos de PostgreSQL.
+
+1. instalamos [Xampp](https://www.apachefriends.org/es/download.html)
+2. instalamos [Composer](https://getcomposer.org/download/)
+3. instalamos [PostgreSQL](https://www.postgresql.org/download/)
+
 Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la carpeta raiz:
 
-1. composer install
-2. php artisan key:generate
-2. php artisan migrate
-2. php artisan serve
+1. composer global require laravel/installer
+2. composer install
+3. php artisan key:generate (antes de esto verificar cumplimiento de observaciones)
+4. php artisan migrate
+5. php artisan db:seed
+6. php artisan serve
+   
+## Observaciones
+1.Editar el archivo [.env](https://github.com/JoaquinBT/Test-back-end/blob/master/.env) con las configuraciones de su base de datos personal de PostgreSQL:
+
+    - DB_CONNECTION=pgsql
+    - DB_HOST=127.0.0.1
+    - DB_PORT=
+    - DB_DATABASE=
+    - DB_USERNAME=
+    - DB_PASSWORD=
+
+2. En la ruta de Xampp\php\php.ini Descomentar todo lo relacionado a "pgsql" para permitir el funcionamiento de PostgreSQL en Xampp
+
+
 
 
 
