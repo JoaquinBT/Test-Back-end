@@ -15,6 +15,7 @@ Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la c
    
 ## Importante 
 \```
+- La API debe estar contenida en la carpeta htdocs de la carpeta de Xampp.
 - Editar el archivo [.env](https://github.com/JoaquinBT/Test-back-end/blob/master/.env) con las configuraciones de su base de datos personal de PostgreSQL:
     - DB_CONNECTION=pgsql
     - DB_HOST=127.0.0.1
