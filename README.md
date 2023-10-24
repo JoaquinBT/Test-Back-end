@@ -6,8 +6,10 @@
 
 Luego ejecutar lo siguiente en la interfaz de línea  de comandos ubicados en la carpeta raiz:
 
-1.
-   ```composer global require laravel/installer```
+1. Instalamos laravel:
+   ```
+   composer global require laravel/installer
+   ```
 3. `composer install`
 4. `php artisan key:generate /antes de esto verificar cumplimiento del apartado Importante/`
 5. `php artisan migrate`
