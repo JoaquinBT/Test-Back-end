@@ -2,7 +2,7 @@
 
 1. instalamos [Xampp](https://www.apachefriends.org/es/download.html) V3.3.0
 2. instalamos [Composer](https://getcomposer.org/download/) V2.6.5
-3. instalamos [PostgreSQL](https://www.postgresql.org/download/) 
+3. instalamos [PostgreSQL](https://www.postgresql.org/download/) V16
 
 Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la carpeta raiz:
 
