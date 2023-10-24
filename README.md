@@ -1,6 +1,6 @@
 # Instrucciones
 ## Observaciones
-Editar el archivo [.env](https://github.com/JoaquinBT/Test-back-end/.env) con las configuraciones de la base de datos de PostgreSQL.
+Editar el archivo [.env](https://github.com/JoaquinBT/Test-back-end/blob/master/.env) con las configuraciones de la base de datos de PostgreSQL.
 Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la carpeta raiz:
 
 1. composer install
