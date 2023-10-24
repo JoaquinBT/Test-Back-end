@@ -4,7 +4,7 @@
 2. instalamos [Composer](https://getcomposer.org/download/) V2.6.5
 3. instalamos [PostgreSQL](https://www.postgresql.org/download/) V16
 
-Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la carpeta raiz:
+Luego ejecutar lo siguiente en la interfaz de línea  de comandos ubicados en la carpeta raiz:
 
 1. `composer global require laravel/installer`
 2. `composer install`
@@ -24,7 +24,7 @@ Luego ejecutar lo siguiente en la interfaz de linea de comandos ubicados en la c
     - DB_USERNAME=
     - DB_PASSWORD=
     
-- En la ruta de instalacion de Xampp: Xampp\php\php.ini Descomentar todo lo relacionado a "pgsql" para permitir el funcionamiento de PostgreSQL en Xampp
+- En la ruta de instalación de Xampp: Xampp\php\php.ini Descomentar todo lo relacionado a "pgsql" para permitir el funcionamiento de PostgreSQL en Xampp
 \```
 
 
