@@ -24,7 +24,7 @@ Luego ejecutar lo siguiente en la interfaz de línea  de comandos ubicados en la
     - DB_USERNAME=
     - DB_PASSWORD=
     
-- En la ruta de instalación de Xampp: Xampp\php\php.ini Descomentar todo lo relacionado a "pgsql" para permitir el funcionamiento de PostgreSQL en Xampp
+- En la ruta de instalación de Xampp: Xampp\php\php.ini descomentar todo lo relacionado a "pgsql" para habilitar el funcionamiento de PostgreSQL en Xampp
 \```
 
 
